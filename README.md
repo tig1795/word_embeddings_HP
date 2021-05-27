@@ -1,14 +1,7 @@
 # word_embeddings_HP
 
-Hausaufgabe auf 27.05:
+Link von Lennart zur Veranschaulichung des Trainings eines Neuronalen Netzes: https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=gauss&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=35&networkShape=4,2&seed=0.28405&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
 
-- Mit Jannidis Notebook herumspielen. 
-- Schichten hinzufügen und welche weglassen und schauen wie sich die Ergebnisse ändern.
-- Batch-size auch verschiedene Werte verwenden.
-- Kapitel 3 & 4 lesen.
-- Code aus Kapitel 3 & 4 implementieren
+Hausaufgabe zum 10.12.:
 
-Nächstes Mal:
-
-- Overfitting
-- Underfitting
+- Kapitel 5 & 6 lesen und den Code implementieren.
